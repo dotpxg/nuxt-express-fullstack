@@ -17,4 +17,10 @@ $ npm run start
 $ npm run generate
 ```
 
+First commit project setup :
+nuxt-create-app
+npm i express, nodemon, cross-env
+create server/index.js
+update script in package.json to point server/index.js with nodemon
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
